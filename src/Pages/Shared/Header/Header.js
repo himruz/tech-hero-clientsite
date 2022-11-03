@@ -56,7 +56,7 @@ const Header = () => {
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <a className="normal-case text-xl flex items-center"><img className="w-24" src="logo.png" alt="" /><span className="text-4xl font-bold	">Tech-Lab</span></a>
       </div>
       <div className="flex-1"></div>
       <div className="flex-none lg:flex sm:hidden">
